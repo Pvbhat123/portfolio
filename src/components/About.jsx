@@ -5,6 +5,7 @@ import { GraduationCap, Briefcase, Paintbrush, Music, Sparkles } from 'lucide-re
 import canvaLogo from '../assets/1656734719canva-logo-transparent.webp'
 import capCutLogo from '../assets/800f31dcd38e0b6129d6490d5df7df2c.jpg'
 import vnEditorLogo from '../assets/vn-video-editor-logo.webp'
+import corelDrawLogo from '../assets/coreldraw_logo_480x480.jpg'
 
 const About = () => {
   const ref = useRef(null)
@@ -28,9 +29,9 @@ const About = () => {
       color: '#FF9A00'
     },
     {
-      name: 'InDesign',
-      logo: 'https://img.icons8.com/color/480/adobe-indesign.png',
-      color: '#FF3366'
+      name: 'CorelDRAW',
+      logo: corelDrawLogo,
+      color: '#6DB33F'
     },
     {
       name: 'Figma',
