@@ -86,7 +86,7 @@ const About = () => {
           >
             <div className="about-image-wrapper">
               <div className="about-image">
-                <img src="/anushakka_works/WhatsApp Image 2025-12-24 at 10.48.10 AM.jpeg" alt="Profile" />
+                <img src="/anushakka_works/WhatsApp Image 2025-12-29 at 3.28.17 PM.jpeg" alt="Profile" />
               </div>
               <div className="image-decoration">
                 <motion.div
