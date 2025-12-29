@@ -67,12 +67,26 @@ const Services = () => {
       process: ['Content Strategy', 'Template Design', 'Content Creation', 'Platform Optimization', 'Performance Review'],
       deliverables: ['Post Templates', 'Story Templates', 'Ad Creatives', 'Content Calendar', 'Brand Kit'],
       works: [
-        { title: 'Ashwamed Post 1', image: '/anushakka_works/Websight Posts/Ashwamed/1.jpg' },
-        { title: 'Ashwamed Post 2', image: '/anushakka_works/Websight Posts/Ashwamed/2.jpg' },
-        { title: 'Immuwin Content', image: '/anushakka_works/Websight Posts/Immuwin/1.jpg' },
-        { title: 'Prostowin Campaign', image: '/anushakka_works/Websight Posts/Prostowin/1.jpg' },
-        { title: 'Stonex Marketing', image: '/anushakka_works/Websight Posts/Stonex/1.jpg' },
-        { title: 'Eyespa Info', image: '/anushakka_works/Websight Posts/Eyespa Ayur/Eyespa-info 1.jpg' },
+        // 1 Cricket World Cup Series
+        { title: 'Cricket World Cup Anarsha', image: '/anushakka_works/Social Media/Cricket series/Cricket world cup  Anarsha final.jpg' },
+        // 5 Festival Posters
+        { title: 'Ganesha Festival', image: '/anushakka_works/Social Media/Festival Posters/Ganesha Festival 2025.jpg' },
+        { title: 'Holi Festival', image: '/anushakka_works/Social Media/Festival Posters/Holi.jpg' },
+        { title: 'Independence Day', image: '/anushakka_works/Social Media/Festival Posters/Independence Day.jpg' },
+        { title: 'Onam Festival', image: '/anushakka_works/Social Media/Festival Posters/Onam.jpg' },
+        { title: 'New Year 2025', image: '/anushakka_works/Social Media/Festival Posters/New year 2025.jpg' },
+        // 4 Health Awareness
+        { title: 'World Heart Day', image: '/anushakka_works/Social Media/Health Awareness Posters/Heart day 25.jpg' },
+        { title: 'Mental Health Day', image: '/anushakka_works/Social Media/Health Awareness Posters/Mental health day 25.jpg' },
+        { title: 'World Stroke Day', image: '/anushakka_works/Social Media/Health Awareness Posters/world Stroke day.jpg' },
+        { title: 'Asthma Day', image: '/anushakka_works/Social Media/Health Awareness Posters/Asthma Day.jpg' },
+        // 2 Social Media Creative
+        { title: 'Ashwamed Poster', image: '/anushakka_works/Social Media/Social Media Creative/Ashwamed Poster.jpg' },
+        { title: 'Lipived Poster', image: '/anushakka_works/Social Media/Social Media Creative/Lipived product poster.jpg' },
+        // 3 Web Banners
+        { title: 'Biotin Banner', image: '/anushakka_works/Websight Posts/Others/Biotin Banner.jpg' },
+        { title: 'Muslizen Banner', image: '/anushakka_works/Websight Posts/Others/Muslizen Banner.jpg' },
+        { title: 'Wonderpro Banner', image: '/anushakka_works/Websight Posts/Others/Wonderpro Banner (2).jpg' },
       ]
     },
     {
