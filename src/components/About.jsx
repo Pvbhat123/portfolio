@@ -34,16 +34,6 @@ const About = () => {
       color: '#6DB33F'
     },
     {
-      name: 'Figma',
-      logo: 'https://img.icons8.com/color/480/figma.png',
-      color: '#F24E1E'
-    },
-    {
-      name: 'After Effects',
-      logo: 'https://img.icons8.com/color/480/adobe-after-effects.png',
-      color: '#9999FF'
-    },
-    {
       name: 'Canva',
       logo: canvaLogo,
       color: '#00C4CC'
@@ -250,7 +240,8 @@ const About = () => {
             </div>
 
             <motion.a
-              href="#contact"
+              href="/anushakka_works/Resume.pdf"
+              download="Anushakka_Resume.pdf"
               className="btn btn-primary about-cta"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
