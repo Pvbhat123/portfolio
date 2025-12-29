@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from 'react'
 import { motion, AnimatePresence, useInView, useMotionValue, useSpring, useTransform } from 'framer-motion'
-import { X, ExternalLink, Eye, Palette, Layers, Share2, Printer, Package, ChevronLeft, ChevronRight, ZoomIn, Grid3X3, Film } from 'lucide-react'
+import { X, ExternalLink, Eye, Palette, Layers, Share2, Printer, Package, ChevronLeft, ChevronRight, ZoomIn, Grid3X3, Film, Video } from 'lucide-react'
 
 // 3D Tilt Card Component
 const TiltCard = ({ children, className, onClick, style }) => {
@@ -62,6 +62,7 @@ const Portfolio = () => {
   const filters = [
     { id: 'all', label: 'All Works', icon: <Grid3X3 size={16} /> },
     { id: 'gif', label: 'Motion Graphics', icon: <Film size={16} /> },
+    { id: 'shortvideo', label: 'Short Videos', icon: <Video size={16} /> },
     { id: 'packaging', label: 'Packaging', icon: <Package size={16} /> },
     { id: 'poster', label: 'Poster Series', icon: <Printer size={16} /> },
     { id: 'icon', label: 'Icon Design', icon: <Layers size={16} /> },
@@ -124,6 +125,92 @@ const Portfolio = () => {
       tools: ['After Effects', 'Photoshop'],
       video: '/anushakka_works/GIF/Sujirna GIF (1).mov',
       thumbnail: '/anushakka_works/Product              Re- Packaging/Sujirna.png',
+      isVideo: true
+    },
+
+    // Short Videos
+    {
+      id: 25,
+      title: 'Deepavali Annakoot',
+      category: 'shortvideo',
+      description: 'Festive short video celebrating Deepavali Annakoot. Vibrant visuals and cultural aesthetics perfect for social media engagement.',
+      tags: ['Short Video', 'Festival', 'Social Media'],
+      color: '#f39c12',
+      year: '2024',
+      client: 'Festival Campaign',
+      tools: ['Premiere Pro', 'After Effects'],
+      video: '/anushakka_works/Short videos/Deepavali annakoot (1).mp4',
+      thumbnail: '/anushakka_works/Short videos/Deepavali annakoot (1).mp4',
+      isVideo: true
+    },
+    {
+      id: 26,
+      title: 'Logo Launch Video',
+      category: 'shortvideo',
+      description: 'Dynamic logo launch video with stunning reveal animation. Perfect for brand announcements and social media campaigns.',
+      tags: ['Logo Animation', 'Brand Launch', 'Promo Video'],
+      color: '#9b59b6',
+      year: '2024',
+      client: 'Brand Launch',
+      tools: ['After Effects', 'Premiere Pro'],
+      video: '/anushakka_works/Short videos/Logo Launch.mp4',
+      thumbnail: '/anushakka_works/Short videos/Logo Launch.mp4',
+      isVideo: true
+    },
+    {
+      id: 27,
+      title: 'PCOS Awareness Month',
+      category: 'shortvideo',
+      description: 'Informative awareness video for PCOS Awareness Month. Educational content with engaging visuals to spread health awareness.',
+      tags: ['Health Awareness', 'Educational', 'Campaign'],
+      color: '#e91e63',
+      year: '2024',
+      client: 'Health Campaign',
+      tools: ['Premiere Pro', 'After Effects'],
+      video: '/anushakka_works/Short videos/PCOS Awareness month.mp4',
+      thumbnail: '/anushakka_works/Short videos/PCOS Awareness month.mp4',
+      isVideo: true
+    },
+    {
+      id: 28,
+      title: 'Product Detailing Video',
+      category: 'shortvideo',
+      description: 'Professional product detailing video showcasing features and benefits. Clean visuals with informative content for marketing.',
+      tags: ['Product Video', 'Marketing', 'Detailing'],
+      color: '#3498db',
+      year: '2024',
+      client: 'Product Marketing',
+      tools: ['Premiere Pro', 'After Effects'],
+      video: '/anushakka_works/Short videos/Product detailing 1.mp4',
+      thumbnail: '/anushakka_works/Short videos/Product detailing 1.mp4',
+      isVideo: true
+    },
+    {
+      id: 29,
+      title: 'Prolife Video',
+      category: 'shortvideo',
+      description: 'Engaging promotional video for Prolife healthcare products. Professional production with compelling storytelling.',
+      tags: ['Healthcare', 'Promo Video', 'Product Marketing'],
+      color: '#27ae60',
+      year: '2024',
+      client: 'Prolife',
+      tools: ['Premiere Pro', 'After Effects'],
+      video: '/anushakka_works/Short videos/Prolife video.mp4',
+      thumbnail: '/anushakka_works/Short videos/Prolife video.mp4',
+      isVideo: true
+    },
+    {
+      id: 30,
+      title: 'Sujirna Video',
+      category: 'shortvideo',
+      description: 'Promotional short video for Sujirna product line. Dynamic visuals and professional editing for maximum brand impact.',
+      tags: ['Product Video', 'Healthcare', 'Marketing'],
+      color: '#e74c3c',
+      year: '2024',
+      client: 'Sujirna',
+      tools: ['Premiere Pro', 'After Effects'],
+      video: '/anushakka_works/Short videos/Sujirna video.mp4',
+      thumbnail: '/anushakka_works/Short videos/Sujirna video.mp4',
       isVideo: true
     },
 
