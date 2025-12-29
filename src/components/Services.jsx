@@ -99,12 +99,22 @@ const Services = () => {
       process: ['Design Consultation', 'Layout Design', 'Print Preparation', 'Proofing', 'Print Supervision'],
       deliverables: ['Print-Ready Files', 'Multiple Formats', 'Bleed & Trim Marks', 'Color Profiles', 'Vendor Coordination'],
       works: [
-        { title: 'Ayurveda Poster 1', image: '/anushakka_works/Series Of Posters/1/Ayu 1.jpg' },
-        { title: 'Ayurveda Poster 2', image: '/anushakka_works/Series Of Posters/1/Ayu2.png' },
-        { title: 'Eyespa Poster', image: '/anushakka_works/Series Of Posters/3/Eyespa 1.jpg' },
-        { title: 'Lung Health', image: '/anushakka_works/Series Of Posters/5/Lung 1.jpg' },
-        { title: 'Dental Care', image: '/anushakka_works/Series Of Posters/7/teeth 1.jpg' },
-        { title: 'Dengue Prevention', image: '/anushakka_works/Series Of Posters/9/Dengue 1.png' },
+        // Brochure
+        { title: 'Brand Reminder Card 1', image: '/anushakka_works/Print Media/Brochure/Brand reminder card-01.jpg' },
+        { title: 'Brand Reminder Card 2', image: '/anushakka_works/Print Media/Brochure/Brand reminder card-02.jpg' },
+        { title: 'Brand Reminder Mix', image: '/anushakka_works/Print Media/Brochure/brand reminder mix.jpg' },
+        // Event Banners
+        { title: 'Balvedics Banner 1', image: '/anushakka_works/Print Media/Event Banners/Balvedics Banner 2025-02.jpg' },
+        { title: 'Balvedics Banner 2', image: '/anushakka_works/Print Media/Event Banners/Balvedics Banner 2025-03.jpg' },
+        // Labels & Pamphlets
+        { title: 'Eyespa Label', image: '/anushakka_works/Print Media/LB_L/Eyespa Lbl.jpg' },
+        { title: 'Immuwin Label', image: '/anushakka_works/Print Media/LB_L/Immuwin Lbl.jpg' },
+        { title: 'Pamphlet Design', image: '/anushakka_works/Print Media/LB_L/Pamphlet together-01.jpg' },
+        // Mockups
+        { title: 'Mockup Design 1', image: '/anushakka_works/Print Media/Mockups/Artboard 7.jpg' },
+        { title: 'Mockup Design 2', image: '/anushakka_works/Print Media/Mockups/Artboard 10.jpg' },
+        // T-shirt
+        { title: 'Corporate T-shirt', image: '/anushakka_works/Print Media/Tshirt/Tshirt for Corporate-01.jpg' },
       ]
     },
     {

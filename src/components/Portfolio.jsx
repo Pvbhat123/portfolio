@@ -268,162 +268,96 @@ const Portfolio = () => {
       thumbnail: '/anushakka_works/Product              Re- Packaging/Bal pro PNG.png'
     },
 
-    // Poster Series
+    // Print Media
     {
       id: 4,
-      title: 'Ayurveda Wellness Series',
+      title: 'Brand Reminder Cards',
       category: 'poster',
-      description: 'A captivating poster series showcasing the essence of Ayurvedic wellness. Each poster tells a story of natural healing through stunning visuals and thoughtful typography.',
-      tags: ['Poster Design', 'Print Media', 'Wellness'],
+      description: 'Professional brand reminder cards designed for corporate use. Clean layouts with impactful branding elements that leave a lasting impression.',
+      tags: ['Brochure', 'Print Design', 'Corporate'],
       color: '#ff9ff3',
       year: '2024',
-      client: 'Wellness Brand',
+      client: 'Bal Vedics',
       tools: ['Photoshop', 'Illustrator'],
       images: [
-        '/anushakka_works/Series Of Posters/1/Ayu 1.jpg',
-        '/anushakka_works/Series Of Posters/1/Ayu2.png'
+        '/anushakka_works/Print Media/Brochure/Brand reminder card-01.jpg',
+        '/anushakka_works/Print Media/Brochure/Brand reminder card-02.jpg',
+        '/anushakka_works/Print Media/Brochure/brand reminder mix.jpg'
       ],
-      thumbnail: '/anushakka_works/Series Of Posters/1/Ayu 1.jpg'
+      thumbnail: '/anushakka_works/Print Media/Brochure/Brand reminder card-01.jpg'
     },
     {
       id: 5,
-      title: 'Healthcare Campaign Posters',
+      title: 'Event Banners Collection',
       category: 'poster',
-      description: 'Impactful healthcare awareness campaign with bold visuals and clear messaging. Designed to educate and engage viewers about important health topics.',
-      tags: ['Campaign', 'Healthcare', 'Awareness'],
+      description: 'Large format event banners designed for exhibitions and corporate events. Eye-catching designs that attract attention and communicate brand message effectively.',
+      tags: ['Event Banner', 'Large Format', 'Exhibition'],
       color: '#54a0ff',
-      year: '2024',
-      client: 'Health Initiative',
+      year: '2025',
+      client: 'Bal Vedics',
       tools: ['Photoshop', 'Illustrator'],
       images: [
-        '/anushakka_works/Series Of Posters/2/1.jpg',
-        '/anushakka_works/Series Of Posters/2/2.jpg',
-        '/anushakka_works/Series Of Posters/2/3.jpg'
+        '/anushakka_works/Print Media/Event Banners/Balvedics Banner 2025-02.jpg',
+        '/anushakka_works/Print Media/Event Banners/Balvedics Banner 2025-03.jpg',
+        '/anushakka_works/Print Media/Event Banners/Balvedics Banner 2025-04.jpg'
       ],
-      thumbnail: '/anushakka_works/Series Of Posters/2/1.jpg'
+      thumbnail: '/anushakka_works/Print Media/Event Banners/Balvedics Banner 2025-02.jpg'
     },
     {
       id: 6,
-      title: 'Eyespa Eye Care Series',
+      title: 'Labels & Pamphlets',
       category: 'poster',
-      description: 'Eye care awareness poster series with soothing visuals and informative content. Focused on promoting eye health and Eyespa products.',
-      tags: ['Healthcare', 'Product Promo', 'Eye Care'],
+      description: 'Product labels and promotional pamphlets with clear information hierarchy. Designed for print production with attention to detail and brand consistency.',
+      tags: ['Labels', 'Pamphlet', 'Product Design'],
       color: '#5f27cd',
       year: '2024',
-      client: 'Eye Care Brand',
+      client: 'Healthcare Brands',
       tools: ['Photoshop', 'Illustrator'],
       images: [
-        '/anushakka_works/Series Of Posters/3/Eyespa 1.jpg',
-        '/anushakka_works/Series Of Posters/3/Eyespa 2.jpg'
+        '/anushakka_works/Print Media/LB_L/Eyespa Lbl.jpg',
+        '/anushakka_works/Print Media/LB_L/Immuwin Lbl.jpg',
+        '/anushakka_works/Print Media/LB_L/Pamphlet together-01.jpg',
+        '/anushakka_works/Print Media/LB_L/Product Price list New1-01.jpg'
       ],
-      thumbnail: '/anushakka_works/Series Of Posters/3/Eyespa 1.jpg'
+      thumbnail: '/anushakka_works/Print Media/LB_L/Eyespa Lbl.jpg'
     },
     {
       id: 7,
-      title: 'Brand B Campaign',
+      title: 'Print Mockups',
       category: 'poster',
-      description: 'Modern and sleek campaign posters with minimalist design approach. Strong typography paired with premium imagery for maximum impact.',
-      tags: ['Campaign', 'Branding', 'Print'],
+      description: 'Professional mockup presentations showcasing print designs in realistic settings. Perfect for client presentations and portfolio display.',
+      tags: ['Mockups', 'Presentation', 'Print'],
       color: '#00d2d3',
       year: '2024',
-      client: 'Brand B',
-      tools: ['Photoshop', 'Illustrator'],
+      client: 'Various Brands',
+      tools: ['Photoshop', 'Dimension'],
       images: [
-        '/anushakka_works/Series Of Posters/4/B1.jpg',
-        '/anushakka_works/Series Of Posters/4/B2.jpg',
-        '/anushakka_works/Series Of Posters/4/B3.jpg',
-        '/anushakka_works/Series Of Posters/4/B4.jpg'
+        '/anushakka_works/Print Media/Mockups/Artboard 7.jpg',
+        '/anushakka_works/Print Media/Mockups/Artboard 10.jpg',
+        '/anushakka_works/Print Media/Mockups/Artboard 14.jpg',
+        '/anushakka_works/Print Media/Mockups/Artboard 15.jpg'
       ],
-      thumbnail: '/anushakka_works/Series Of Posters/4/B1.jpg'
+      thumbnail: '/anushakka_works/Print Media/Mockups/Artboard 7.jpg'
     },
     {
       id: 8,
-      title: 'Lung Health Awareness',
+      title: 'Corporate T-shirt Design',
       category: 'poster',
-      description: 'Respiratory health awareness series with impactful visuals highlighting the importance of lung care and healthy breathing habits.',
-      tags: ['Health Awareness', 'Medical', 'Campaign'],
+      description: 'Custom corporate t-shirt design for team uniforms and promotional merchandise. Professional designs that represent brand identity.',
+      tags: ['Apparel', 'Corporate', 'Merchandise'],
       color: '#1dd1a1',
       year: '2024',
-      client: 'Health Organization',
-      tools: ['Photoshop', 'Illustrator'],
+      client: 'Corporate Client',
+      tools: ['Illustrator', 'Photoshop'],
       images: [
-        '/anushakka_works/Series Of Posters/5/Lung 1.jpg',
-        '/anushakka_works/Series Of Posters/5/Lung 2.jpg',
-        '/anushakka_works/Series Of Posters/5/Lung 3_.jpg',
-        '/anushakka_works/Series Of Posters/5/Lung 4.jpg'
+        '/anushakka_works/Print Media/Tshirt/Tshirt for Corporate-01.jpg'
       ],
-      thumbnail: '/anushakka_works/Series Of Posters/5/Lung 1.jpg'
-    },
-    {
-      id: 9,
-      title: 'Thyroid Care Posters',
-      category: 'poster',
-      description: 'Educational poster series about thyroid health. Combines medical accuracy with accessible design for public health education.',
-      tags: ['Healthcare', 'Education', 'Awareness'],
-      color: '#ee5a24',
-      year: '2024',
-      client: 'Medical Campaign',
-      tools: ['Photoshop', 'Illustrator'],
-      images: [
-        '/anushakka_works/Series Of Posters/6/Thy 1.png',
-        '/anushakka_works/Series Of Posters/6/Thy 2.jpg'
-      ],
-      thumbnail: '/anushakka_works/Series Of Posters/6/Thy 1.png'
-    },
-    {
-      id: 10,
-      title: 'Dental Care Campaign',
-      category: 'poster',
-      description: 'Dental hygiene awareness campaign with friendly, approachable designs. Promotes oral health habits with visually engaging content.',
-      tags: ['Dental', 'Healthcare', 'Campaign'],
-      color: '#0abde3',
-      year: '2024',
-      client: 'Dental Brand',
-      tools: ['Photoshop', 'Illustrator'],
-      images: [
-        '/anushakka_works/Series Of Posters/7/teeth 1.jpg',
-        '/anushakka_works/Series Of Posters/7/teeth 2.jpg',
-        '/anushakka_works/Series Of Posters/7/teeth 3.jpg'
-      ],
-      thumbnail: '/anushakka_works/Series Of Posters/7/teeth 1.jpg'
-    },
-    {
-      id: 11,
-      title: 'Children Eye Health',
-      category: 'poster',
-      description: 'Child-focused eye health awareness posters with playful yet informative design. Created to engage parents and children about eye care.',
-      tags: ['Children', 'Eye Care', 'Awareness'],
-      color: '#f368e0',
-      year: '2024',
-      client: 'Pediatric Eye Care',
-      tools: ['Photoshop', 'Illustrator'],
-      images: [
-        '/anushakka_works/Series Of Posters/8/Children Eyehealth1.png',
-        '/anushakka_works/Series Of Posters/8/Children Eyehealth2.jpg'
-      ],
-      thumbnail: '/anushakka_works/Series Of Posters/8/Children Eyehealth1.png'
-    },
-    {
-      id: 12,
-      title: 'Dengue Prevention',
-      category: 'poster',
-      description: 'Public health awareness campaign for dengue prevention. Striking visuals with clear actionable information for community safety.',
-      tags: ['Public Health', 'Prevention', 'Awareness'],
-      color: '#ff6b6b',
-      year: '2024',
-      client: 'Public Health',
-      tools: ['Photoshop', 'Illustrator'],
-      images: [
-        '/anushakka_works/Series Of Posters/9/Dengue 1.png',
-        '/anushakka_works/Series Of Posters/9/Dengue 2.jpg',
-        '/anushakka_works/Series Of Posters/9/Dengue 3.png'
-      ],
-      thumbnail: '/anushakka_works/Series Of Posters/9/Dengue 1.png'
+      thumbnail: '/anushakka_works/Print Media/Tshirt/Tshirt for Corporate-01.jpg'
     },
 
     // Icon Design
     {
-      id: 13,
+      id: 9,
       title: 'Healthcare Icon System',
       category: 'icon',
       description: 'Comprehensive icon set designed for healthcare and pharmaceutical products. Each icon maintains visual consistency while clearly communicating product benefits.',
@@ -441,7 +375,7 @@ const Portfolio = () => {
       thumbnail: '/anushakka_works/Icon-1_Ayush Certified.png'
     },
     {
-      id: 14,
+      id: 10,
       title: 'Product Feature Icons',
       category: 'icon',
       description: 'Premium product feature icons with detailed illustrations. Used across packaging and marketing materials for clear benefit communication.',
@@ -461,7 +395,7 @@ const Portfolio = () => {
 
     // Social Media / Web Posts
     {
-      id: 15,
+      id: 11,
       title: 'Cricket World Cup Series',
       category: 'social',
       description: 'Exciting cricket world cup themed social media posts featuring product promotions. Engaging sports-themed designs that connect with cricket enthusiasts.',
@@ -478,7 +412,7 @@ const Portfolio = () => {
       thumbnail: '/anushakka_works/Social Media/Cricket series/Cricket world cup  Anarsha final.jpg'
     },
     {
-      id: 16,
+      id: 12,
       title: 'Festival Posters Collection',
       category: 'social',
       description: 'Vibrant festival greeting posters for various Indian festivals and celebrations. Culturally rich designs that resonate with diverse audiences.',
@@ -510,7 +444,7 @@ const Portfolio = () => {
       thumbnail: '/anushakka_works/Social Media/Festival Posters/Ganesha Festival 2025.jpg'
     },
     {
-      id: 17,
+      id: 13,
       title: 'Health Awareness Posters',
       category: 'social',
       description: 'Impactful health awareness campaign posters covering major global health issues. Educational designs that spread awareness about common diseases.',
@@ -534,7 +468,7 @@ const Portfolio = () => {
       thumbnail: '/anushakka_works/Social Media/Health Awareness Posters/Heart day 25.jpg'
     },
     {
-      id: 18,
+      id: 14,
       title: 'Social Media Creative',
       category: 'social',
       description: 'Creative product posters designed for social media marketing. Eye-catching designs that highlight product features and benefits.',
@@ -554,7 +488,7 @@ const Portfolio = () => {
       thumbnail: '/anushakka_works/Social Media/Social Media Creative/Ashwamed Poster.jpg'
     },
     {
-      id: 19,
+      id: 15,
       title: 'Web Banners Collection',
       category: 'social',
       description: 'Diverse collection of web banners for various products. Optimized for both desktop and mobile viewing with responsive design principles.',
