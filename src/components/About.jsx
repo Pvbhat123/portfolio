@@ -241,7 +241,7 @@ const About = () => {
 
             <motion.a
               href="/anushakka_works/Resume.pdf"
-              download="Anushakka_Resume.pdf"
+              download="Resume.pdf"
               className="btn btn-primary about-cta"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
