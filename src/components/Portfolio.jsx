@@ -314,12 +314,36 @@ const Portfolio = () => {
       client: 'Healthcare Brands',
       tools: ['Photoshop', 'Illustrator'],
       images: [
-        '/anushakka_works/Print Media/LB_L/Eyespa Lbl.jpg',
-        '/anushakka_works/Print Media/LB_L/Immuwin Lbl.jpg',
-        '/anushakka_works/Print Media/LB_L/Pamphlet together-01.jpg',
-        '/anushakka_works/Print Media/LB_L/Product Price list New1-01.jpg'
+        '/anushakka_works/labels and pamplets/WhatsApp Image 2026-01-12 at 10.16.48 AM.jpeg',
+        '/anushakka_works/labels and pamplets/WhatsApp Image 2026-01-12 at 10.16.49 AM.jpeg',
+        '/anushakka_works/labels and pamplets/WhatsApp Image 2026-01-12 at 10.16.49 AM (1).jpeg',
+        '/anushakka_works/labels and pamplets/WhatsApp Image 2026-01-12 at 10.16.49 AM (2).jpeg',
+        '/anushakka_works/labels and pamplets/WhatsApp Image 2026-01-12 at 10.16.49 AM (3).jpeg',
+        '/anushakka_works/labels and pamplets/WhatsApp Image 2026-01-12 at 10.16.49 AM (4).jpeg',
+        '/anushakka_works/labels and pamplets/WhatsApp Image 2026-01-12 at 10.16.49 AM (5).jpeg'
       ],
-      thumbnail: '/anushakka_works/Print Media/LB_L/Eyespa Lbl.jpg'
+      thumbnail: '/anushakka_works/labels and pamplets/WhatsApp Image 2026-01-12 at 10.16.48 AM.jpeg'
+    },
+    {
+      id: 31,
+      title: 'Visual Aid',
+      category: 'poster',
+      description: 'Professional visual aid designs for presentations and educational materials. Clear, informative graphics that communicate complex information effectively.',
+      tags: ['Visual Aid', 'Educational', 'Infographics'],
+      color: '#e67e22',
+      year: '2024',
+      client: 'Healthcare Brands',
+      tools: ['Photoshop', 'Illustrator'],
+      images: [
+        '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.07 AM.jpeg',
+        '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.43 AM.jpeg',
+        '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.43 AM (1).jpeg',
+        '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.44 AM.jpeg',
+        '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.44 AM (1).jpeg',
+        '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.53.29 AM.jpeg',
+        '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.53.49 AM.jpeg'
+      ],
+      thumbnail: '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.07 AM.jpeg'
     },
     {
       id: 7,

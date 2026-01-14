@@ -110,6 +110,11 @@ const Services = () => {
         { title: 'Eyespa Label', image: '/anushakka_works/Print Media/LB_L/Eyespa Lbl.jpg' },
         { title: 'Immuwin Label', image: '/anushakka_works/Print Media/LB_L/Immuwin Lbl.jpg' },
         { title: 'Pamphlet Design', image: '/anushakka_works/Print Media/LB_L/Pamphlet together-01.jpg' },
+        // Visual Aid
+        { title: 'Visual Aid 1', image: '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.07 AM.jpeg' },
+        { title: 'Visual Aid 2', image: '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.43 AM.jpeg' },
+        { title: 'Visual Aid 3', image: '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.43 AM (1).jpeg' },
+        { title: 'Visual Aid 4', image: '/anushakka_works/visual aid/WhatsApp Image 2026-01-12 at 10.52.44 AM.jpeg' },
         // Mockups
         { title: 'Mockup Design 1', image: '/anushakka_works/Print Media/Mockups/Artboard 7.jpg' },
         { title: 'Mockup Design 2', image: '/anushakka_works/Print Media/Mockups/Artboard 10.jpg' },
